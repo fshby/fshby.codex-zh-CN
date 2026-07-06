@@ -7,6 +7,13 @@
 一键将 [Codex Desktop](https://github.com/openai/codex) 界面切换为**简体中文**，面向 Windows 用户，操作简单。
 本项目参考github开源库 [GitHub Issues](https://github.com/xqnode/codex-zh-CN/issues) ，原始版本大 佬已经不更新，所以手动适配了v5.5.5版本兼容codex**26.623.x**系列
 
+## 交流与反馈
+
+使用中遇到问题、或有汉化遗漏，欢迎扫码加入交流群反馈：
+
+<img width="992" height="895" alt="386e90c24af74f2d227f411e41832463" src="https://github.com/user-attachments/assets/f0e1c1e9-0130-46e8-8ceb-f081448d0852" />
+
+<p align="center">微信扫码加入交流群</p>
 
 ## 快速开始
 
