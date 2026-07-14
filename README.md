@@ -11,7 +11,8 @@
 
 使用中遇到问题、或有汉化遗漏，欢迎扫码加入交流群反馈：
 
-<img width="992" height="895" alt="386e90c24af74f2d227f411e41832463" src="https://github.com/user-attachments/assets/f0e1c1e9-0130-46e8-8ceb-f081448d0852" />
+<img width="416" height="408" alt="image" src="https://github.com/user-attachments/assets/a395a5d8-abe1-4660-9a7d-751583677bed" />
+
 
 <p align="center">微信扫码加入交流群</p>
 
